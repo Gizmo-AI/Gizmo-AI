@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
 
-<h1>Hi 👋, I'm Randy R. Martínez Cepeda</h1>
-<h3>A passionate fullstack developer from Dominican Republic</h3>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/338a56a9-4707-4717-8f18-dedfffb5ffdc" />
 
 <br/>
 
