@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/338a56a9-4707-4717-8f18-dedfffb5ffdc" />
+<img width="2979" height="809" alt="github-header-banner" src="https://github.com/user-attachments/assets/c3c50f73-0356-43db-91f0-a5f1baa7b056" />
 
 <br/>
 
