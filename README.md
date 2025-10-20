@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Vue, React, Nest, Laravel**
 
-- 📫 How to reach me **randy.martinez@hytechhome.com**
+- 📫 How to reach me **[Hytech Gizmo](https://hytechgizmo.com/user/login)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
