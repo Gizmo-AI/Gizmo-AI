@@ -1,18 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
 
-<img width="2979" height="809" alt="github-header-banner" src="https://github.com/user-attachments/assets/c3c50f73-0356-43db-91f0-a5f1baa7b056" />
-
 <br/>
 
-- 🔭 I’m currently working on [gizmo](https://github.com/hytechbarett/gizmo)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **Clean Architecture**
 
-- 👯 I’m looking to collaborate on [gizmo](https://github.com/hytechbarett/gizmo)
+- 👯 I’m looking to collaborate on []()
 
 - 💬 Ask me about **Vue, React, Nest, Laravel**
 
-- 📫 How to reach me **[Hytech Gizmo](https://hytechgizmo.com/user/login)**
+- 📫 How to reach me **[]()**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
